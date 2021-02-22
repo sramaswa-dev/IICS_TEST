@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "9XIpxQDYa8whgnwcrKTHwV",
+    "name" : "sramaswa",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Santhana's personal workspace",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
