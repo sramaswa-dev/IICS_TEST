@@ -1,0 +1,47 @@
+{
+  "objectInfo" : {
+    "id" : "kkKMCGLRSqohg9wn5QoIUy",
+    "name" : "M_MD_MATERIAL_rajeshcheck",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0102X9170000000000AO"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "objectRefs" : [ {
+    "id" : "9GTmIWwGRlafOf0XfhdqWb",
+    "name" : "Snowflake-DEV",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0102X90B00000000000W"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Snowflake-DEV",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  } ]
+}
